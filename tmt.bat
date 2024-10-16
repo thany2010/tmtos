@@ -93,7 +93,7 @@ goto a
 start notepad
 goto a
 :ab
-echo TMT-OS Beta Build 1
+echo TMT-OS Beta Build II
 echo (C) 2024 Thany Inc.
 echo https://github.com/thany2010
 pause
